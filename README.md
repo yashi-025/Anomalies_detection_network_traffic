@@ -34,6 +34,7 @@ Network anomaly detection is critical for identifying security breaches, network
 ├── streamlit_app.py           # Interactive app using Streamlit
 ├── requirements.txt           
 └── README.md                  
+```
 
 ## Project view
 
