@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-# import joblib
+import joblib
 import os
 
 from src.data_loader import KDDDataLoader
