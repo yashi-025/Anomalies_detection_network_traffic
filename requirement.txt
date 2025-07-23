@@ -1,15 +1,16 @@
-# Modules used in this project
-streamlit
-pandas
-numpy
-scikit-learn
-seaborn
-matplotlib
-joblib
-LabelEncoder
-StandardScaler
-IsolationForest
-DBSCAN
-KMeans
-TSNE
-PCA
+# Core libraries
+streamlit >= 1.35.0
+pandas >= 2.2.2
+numpy >= 1.26.4
+
+# ML & preprocessing
+scikit-learn >= 1.4.2
+joblib >= 1.4.2
+
+# Visualization
+seaborn >= 0.13.2
+matplotlib >= 3.8.4
+
+# Ensure compatibility with used classes like:
+# - LabelEncoder, StandardScaler, IsolationForest, DBSCAN, KMeans, PCA, TSNE
+# All come from scikit-learn >= 1.0
