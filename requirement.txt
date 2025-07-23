@@ -1,3 +1,4 @@
+# Modules used in this project
 streamlit
 pandas
 numpy
@@ -5,3 +6,10 @@ scikit-learn
 seaborn
 matplotlib
 joblib
+LabelEncoder
+StandardScaler
+IsolationForest
+DBSCAN
+KMeans
+TSNE
+PCA
