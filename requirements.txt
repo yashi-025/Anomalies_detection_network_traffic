@@ -13,4 +13,4 @@ matplotlib>=3.8.4
 
 # Ensure compatibility with used classes like:
 # - LabelEncoder, StandardScaler, IsolationForest, DBSCAN, KMeans, PCA, TSNE
-# All come from scikit-learn >= 1.0
+# All come from scikit-learn>=1.0
